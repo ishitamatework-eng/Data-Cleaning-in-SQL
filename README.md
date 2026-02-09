@@ -1,2 +1,5 @@
 # Data-Cleaning-in-SQL
-I cleaned a messy CSV of 823 company layoffs into a clean analytics table using SQL. Fixed duplicates (removed 29), standardized dates and locations, and filled all missing industries (like AvantStay=Construction, SF Bay=Tech).  Now I have 794 complete rows with zero errors.
+## Project Objective
+Analyze 2020-2022 company layoff patterns by industry, location, funding stage, and employee count to identify business trends and risk factors. Clean raw CSV data (823 messy rows) into production-ready analytics table for actionable business insights and executive reporting.
+## Dataset used
+- <a href="https://github.com/ishitamatework-eng/Data-Cleaning-in-SQL/blob/main/layoffs.csv">Dataset</a> 
