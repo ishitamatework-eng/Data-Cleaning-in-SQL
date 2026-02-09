@@ -12,3 +12,5 @@ Analyze 2020-2022 company layoff patterns by industry, location, funding stage, 
 - Dropped invalid rows (layoffs >50k, percentage >100%) + unused columns
 - Verified 0% NULLs/duplicates across 9 clean columns
 - <a href="https://github.com/ishitamatework-eng/Data-Cleaning-in-SQL/commit/7278fbf17f1d05d9b8e271eb8901caac655dd252">View Project</a>
+## Project Outcome
+Delivered clean, scalable analytics dataset from raw layoffs data—perfect foundation for business analytics use cases like industry benchmarking, geographic risk assessment, and funding-stage performance analysis. Transformed data chaos into strategic insight engine.
